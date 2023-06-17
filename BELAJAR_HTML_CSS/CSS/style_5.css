@@ -1,0 +1,23 @@
+.navigasi:link {
+    color: #ff0000;
+}
+.navigasi:visited {
+    color: green;
+}
+.navigasi:hover {
+    color: white;
+    background-color: black;
+}
+.navigasi:active {
+    color: yellow;
+    background-color: #ff0000;
+    font-size: 40px;
+}
+
+ul li a:link {
+    color: red;
+}
+ul li a:hover {
+    background-color: black;
+    color: white;
+}
